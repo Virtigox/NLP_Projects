@@ -1,4 +1,5 @@
 # Project Roadmap
+
 - [ X ] Data Scrapping
     - Scrapping text dataset from public websites where scrapping is legal.
     - Citing the website.
@@ -13,7 +14,10 @@
 - [ X ] Topic Identification
     - Extract the most significant keywords from each articles
     - Idenfity which keywords describe which article.
+    - This approach could be improved by more data cleaning, and emphasizing only the document materials of the webpage or articles.
+    - There is not much of a challenges, but trying to be more modular such as splitting into smaller functions and compatible with other functions is ambigious.
+------------
 
-- [ ] Build NLP model
+- [ ] Build NLP model for Classification.
 - [ ] Training model
 - [ ] Measuring and Improving the accuracy
