@@ -6,3 +6,7 @@ Identify the Topic and Recognize Fake News
 > 3. January 29, 2025. *Press Briefing by Press Secretary Karoline Leavitt*. White House. https://www.whitehouse.gov/briefings-statements/2025/01/press-briefing-by-press-secretary-karoline-leavitt/
 > 4. `News articles` from [Data Camp](https://app.datacamp.com/)
 > 5. `Wikipedia articles` from [Data Camp](https://app.datacamp.com/)
+
+# Project Report
+>- Exact approach of accomplishing project will be addressed at [Project Report](Project_Report.md)
+
