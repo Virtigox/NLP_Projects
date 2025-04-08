@@ -11,3 +11,8 @@ Identify the Topic and Recognize Fake News
 # Project Report
 >- Exact approach of accomplishing project will be addressed at [Project Report](Project_Report.md)
 
+
+# NLP Sentiment Analysis
+Analyzing the reviews, and tweets of the person to identify their sentiment.
+# Data Citation
+> 1. April,7,2025. *Sentiment140 dataset with 1.6 million tweets*. Kaggle.https://www.kaggle.com/datasets/kazanova/sentiment140
