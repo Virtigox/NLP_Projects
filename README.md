@@ -17,3 +17,8 @@ Analyzing the reviews, and tweets of the person to identify their sentiment.
 # Data Citation
 > 1. April,7,2025. *Sentiment140 dataset with 1.6 million tweets*. Kaggle.https://www.kaggle.com/datasets/kazanova/sentiment140
 > Problem uploading the tweets data onto remote server. Solve it.
+
+# ChatBot Assistant
+A rule-based assistant that will provide you the appropriate answer.
+# Data Citation
+>1. May,4,2025. *S&P 500 Companies with Financial Information*. https://datahub.io/core/s-and-p-500-companies
