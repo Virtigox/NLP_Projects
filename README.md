@@ -17,6 +17,8 @@
 ## Data Citation
 > 1. April,7,2025. *Sentiment140 dataset with 1.6 million tweets*. Kaggle.https://www.kaggle.com/datasets/kazanova/sentiment140
 > Problem uploading the tweets data onto remote server. Solve it.
+## Project Report
+>- Exact approach of accomplishing project will be addressed at [Project Report](Sentiment Analysis Project Report.md)
 
 # ChatBot Assistant
 > A rule-based assistant that will provide you the appropriate answer.
