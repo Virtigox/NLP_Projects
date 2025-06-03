@@ -46,7 +46,7 @@ This project applies **Natural Language Processing (NLP)** techniques to classif
 - **Testing Accuracy**: `71.95%`
 - **Accuracy Score**: `71.95%`
 
-### 📉 Confusion Matrix (Normalized)
+### Confusion Matrix (Normalized)
 ```Python
 [[True Negative: 33.5% | False Positive: 16.5%]
 [False Negative: 11.6% | True Positive: 38.4%]]
