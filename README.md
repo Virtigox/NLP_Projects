@@ -20,7 +20,7 @@
 > 1. April,7,2025. *Sentiment140 dataset with 1.6 million tweets*. Kaggle.https://www.kaggle.com/datasets/kazanova/sentiment140
 > Problem uploading the tweets data onto remote server. Solve it.
 ### Project Report
-> Exact approach of accomplishing project will be addressed at [Project Report](Sentiment_Project_Report.md)
+> Exact approach of accomplishing project will be addressed at [Project Report](Sentiment_Analysis_Report.md)
 
 ---
 
@@ -29,4 +29,4 @@
 ### Data Citation
 >1. May,4,2025. *S&P 500 Companies with Financial Information*. https://datahub.io/core/s-and-p-500-companies
 ### Project Report
-> Exact approach of accomplishing project will be addressed at [Project Report]()
+> Exact approach of accomplishing project will be addressed at [Project Report](chatbot_Report.md)
